@@ -1,2 +1,2 @@
 # rest-service
-Simple REST service with Cucumber Tests
+Simple Spring REST Service with Cucumber Tests
